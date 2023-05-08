@@ -1,0 +1,3 @@
+Download Link: https://assignmentchef.com/product/solved-solvedsql-questions-solution
+<br>
+1. Give an example of a foreign key constraint that involves the Dept relation.Answer: Manageid is a foreign key. It references the primary key eid in the Emp table2. Write the SQL statements required to create the preceding relations, including appropriateversions of all primary and foreign key integrity constraints.3. Define the Dept relation in SQL so that every department is guaranteed to have a manager.4. Write an SQL statement to add John Doe as an employee with eid = 101, age = 32 and salary = 15,000.5. Write an SQL statement to give every employee a 10 percent raise.6. Write an SQL statement to delete the Toy department.
